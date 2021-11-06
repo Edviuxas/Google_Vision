@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thermal-camera-311615",
+  "private_key_id": "7fc08d6c225774c6e27ccafc16b3bd40aa0b3cd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTq6ezxXWsd9la\nU2xASproMsN5l1TShkxy5QuunM4fB5RC9qUHTKVEnTaEDG+9CyvbvpNX94gwayRR\n6HvL2+QV+O/hLDXuCFKq+yG5+HVvKPcVU9dsHFrcN8P2vN9TT8UK67U+b+74cE7H\nuIoKr4JTqXTxTjFTC8KlAsR1+wgAoNwN8Ukwp/bwa4ggSsI445BRet+UOdgZxlyV\nRhEyDkXQItS36DexuI1dcagsfwyFMmLg6ln1cXnIvKGrXopwS5TpKqU1fp/3SUc4\nvOmo9ID4V6L6n2yRWVYbgdXhjGDoVXHW/sg+jvpJMMmtvzo7iT8cd+wxAAzxkXqS\nD3+gyMHFAgMBAAECgf8w3wyZWb3tCwgIpSf0sCBvadtcrmZeEJGoYyePVwBkzj+/\nWtetPFdZ5M3xeDbCCn/6ajOtJPCfGLAKFL7JpQSf6YfCNY5ipwlKp8NPbOCLwKmU\n3nR5+H+42LmT2dD/dHSlmf1H9lk/p9Ma7mU6ABT7vAjx0oB+ovh7oNWpHrExKmJl\nTOFn1PmrhmM/iqmqS2ySfiT4bo0rwBq1cWkovmKk5K9rtmWKTABZ906JFQZyfsNM\nY8NUosFuIHJ/nS7bbNj6Je2OQzDGmhhEQi0euLjyzEMOwN7mSlcu4zG8IW/ACIZs\nEDImT7y3GkBEig74jUHTPFFpXQjMaMqtlmir66kCgYEA+5mBQLm/0uqc5B/4TRpR\nz2St7qbXQsyZiTqNU89dbzaPs6OgdstMyJ8dD4hZjMVrjxpa2Vs6L+GwzEr7SPZM\nngdlzt/GXs6BXZo0UCU59AZDau7Tl6dW94ZiGa9qMrhBBVXJlhIxLmw9xNolvgOE\n6AToumFesUip0iuVqgMze60CgYEA119f1SVlo+/XXL8yg7EVd0D/qrTAEk3g6/ia\nNq2pYCJ/6gtJoI9FEoZ59obttIX96Y1JKkNpzlWwoy5Qhr6rocPvAzzrUO0LS8sZ\nUhz/cq/JXpGvXwCDkoQMnwyvb9NmmxpFPGNmy0iHgXGqUy8IJdE1yWGjcsefB8Uz\nYvTKIXkCgYEAgKSDTvnql8g3wfiKt7meXOFIgX6zD8eXNXBHtLORPXzzStF+CV93\nehjI/hkkWHLUxQ2fqAUaIkNOZ5ZrF2o/0IlNx9HpFq6VvKtM1jHCiP/u1q0YaTE5\nqUP/wsxLC3XkYPr1IJNarDbR+mXj6FzaRtvDtxB0H0dc9UYttwj9+N0CgYANPmIo\nOzp60D7QBznV+0e0o5yVJLRC6+MO36SsBBXMQZLYE4Wdh/HZZ8eML1Piq/KnL/b1\n0FtrQr2v6yMshgEL236RFmfp/AmbyYtvDzVuGf0qAY9lKiTtF42nIiKPn9JJa14i\njoI9seITRagRoWzA1pKWJZjlb/0Jf0jfpunfEQKBgQCtZ2zb8p7Y2yBKQtm0BeCh\n8Sw5ZjpEbIZZgtf37A0xUJJRkHYKCCFqd8iEuBUtRjsJFsUqBpdBgKcAayoitFFd\nEmlR1VvHvIbMzkxYNcT4JUKuBOhQXRzNxpEov0RoEmG4QOdemWEv5FfAXTcGsbI4\n2gviBTM3Zb0pR9MLix2qEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "web-service@thermal-camera-311615.iam.gserviceaccount.com",
+  "client_id": "101297590883237265173",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/web-service%40thermal-camera-311615.iam.gserviceaccount.com"
+}

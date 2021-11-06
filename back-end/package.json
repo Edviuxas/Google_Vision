@@ -1,0 +1,28 @@
+{
+  "name": "interneto-technologijos",
+  "version": "1.0.0",
+  "description": "Web system using Google Vision",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "start": "node app.js"
+  },
+  "author": "Edvinas Sutkus",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^2.3.1",
+    "async": "^3.2.0",
+    "base64-arraybuffer": "^0.2.0",
+    "body-parser": "^1.19.0",
+    "canvas": "^2.7.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "has-any-deep": "^0.3.2",
+    "is-bmp": "^1.0.1",
+    "jimp": "^0.16.1",
+    "node-fetch": "^2.6.1",
+    "pureimage": "^0.3.2",
+    "url-regex": "^5.0.0"
+  }
+}
